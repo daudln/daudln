@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **daudnamayala@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudln&theme=dracula" alt="daudln" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daudln&show_icons=true&locale=en" alt="daudln" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daudln&show_icons=true&locale=en&theme=dracula" alt="daudln" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daudln&" alt="daudln" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=daudln&theme=dracula" alt="GitHub Streak" /></p>
